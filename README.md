@@ -5,7 +5,7 @@ Filter movies and TV shows by year, country, rating, genre, and search keywords.
 View data through charts, a world map, and a gallery with real posters and trailer links.
 
 
-🔗 Try it live: [Streamlit Cloud](https://netflix-data-explorer-ji8ejqgext58hpvtpwkmae.streamlit.app/)
+**🔗 Try it live**: [Streamlit Cloud](https://netflix-data-explorer-ji8ejqgext58hpvtpwkmae.streamlit.app/)
 
 ## ✨ Features
 
